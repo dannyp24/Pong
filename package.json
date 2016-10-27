@@ -1,0 +1,10 @@
+{
+   "name": "Fibbage Copy",
+   "description": "Multiplayer Game",
+   "author": "Danny",
+   "dependencies" : {
+      "express": "4.x",
+      "socket.io": "*"
+   }
+
+}
